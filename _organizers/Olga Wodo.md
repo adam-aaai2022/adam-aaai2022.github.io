@@ -1,14 +1,14 @@
 ---
 # Name of the organizer
-name: Chinmay Hegde
+name: Olga Wodo
 
 # Link to the organizer's webpage
-webpage: https://chinmayhegde.github.io/
+webpage: https://www.acsu.buffalo.edu/~olgawodo/
 
 # Primary affiliation
-affil: New York University, Tandon School of Engineering
+affil: University of Buffalo
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: chinmay.png
+img: olga.jpg
 
 ---
