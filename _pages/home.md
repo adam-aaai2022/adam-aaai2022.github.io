@@ -16,8 +16,8 @@ acknowledgements: ""
     <center><h1>AI for Design and Manufacturing (ADAM)</h1></center>
     <center><h2>AAAI 2022 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 14th, 08:00 AM to 16:30 PM EST,
-      Virtual Workshop
+      TBD,
+      Vancouver, Canada.
     </span></center>
   </div>
 </div>
@@ -204,7 +204,7 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
   </div>
 </div><br>
 
-
+<!-- 
 <div class="row" id="recordings">
     <div class="col-xs-12">
     <h2>Recordings</h2>
@@ -217,6 +217,7 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
     The workshop will be broadcasted via Zoom and poster sessions will be on Gathertown. We will upload the recordings on YouTube.</p>
   </div>
 </div>
+ -->
 
 
 
@@ -228,43 +229,42 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
 
 <div class="row">
   <div class="col-xs-3">
-    <a href="https://www.ekbuchanan.com/">
+    <a href="http://www.cs.cmu.edu/~aarti/">
       <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
-      <h6>Columbia University</h6>
-    </div>
-  </div>
-
-
-  <div class="col-xs-3">
-    <a href="https://animesh.garg.tech/">
-      <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://animesh.garg.tech/">Animesh Garg</a>
-      <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+      <a href="http://www.cs.cmu.edu/~aarti/">Aarti Singh</a>
+      <h6>Carnegie Melon University</h6>
     </div>
   </div>
 
   <div class="col-xs-3">
-    <a href="https://lucehe.github.io/">
+    <a href="https://www.me.iastate.edu/faculty/profile/baskarg/">
       <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
-      <h6>Université de Sherbrooke</h6>
+      <a href="https://www.me.iastate.edu/faculty/profile/baskarg/">Baskar Ganapathysubramanian</a>
+      <h6>Iowa State University</h6>
     </div>
   </div>
 
   <div class="col-xs-3">
-        <a href="http://rlily.hu/">
+    <a href="https://chinmayhegde.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://rlily.hu/">Lily Hu</a>
-      <h6>Google Research</h6>
+      <a href="https://www.ekbuchanan.com/">Chinmay Hegde</a>
+      <h6>New York University, Tandon School of Engineeering</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+        <a href="https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge">
+      <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge">Mark Fuge</a>
+      <h6>University of Maryland</h6>
     </div>
   </div>
   </div>
