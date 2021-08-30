@@ -1,1 +1,9 @@
-theme: jekyll-theme-cayman
+title: AI for Design and Manufacturing
+email: chinmay.h@nyu.edu
+description: Website for workshop "AI for Design and Manufacturing (ADAM)" at AAAI 2022
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-110470966-1
+# theme: jekyll-theme-cayman
