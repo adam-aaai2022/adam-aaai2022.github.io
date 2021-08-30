@@ -7,16 +7,18 @@ title: Home
 layout: home
 ---
 
-Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
+Advances in complex engineering systems such as manufacturing and materials synthesis increasingly seek artificial intelligence/machine learning (AI/ML) solutions to enhance their design, development, and production processes. However, despite increasing interest from various subfields, AI/ML techniques are yet to fulfill their full promise in achieving these advances. Key obstacles include lack of high-quality data, difficulty in embedding complex scientific and engineering knowledge in learning, and the need for high-dimensional design space exploration under constrained budgets.
 
-![](assets/img/banner.jpg)
+Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core AI/ML, design, manufacturing, scientific computing, and geometric modeling. Our intent is to facilitate new AI/ML advances for core engineering design, simulation, and manufacturing. Outcomes include outlining the main research challenges in this area, cross-pollinating collaborations between AI researchers and domain experts in engineering design and manufacturing, and sketching open problems of common interest. Specific topics for the workshop include (but are not limited to):
 
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
+- New theory and fundamentals of AI-aided design and manufacturing 
+- Novel AI-based techniques to improve modeling of engineering systems 
+- Integration of AI-based approaches with engineering prototyping and manufacturing 
+- Novel methods to learn from scarce/sparse, or heterogenous, or multimodal data 
+- Novel ML methods in the computational material and physical sciences 
+- Novel ML-accelerated optimization for conceptual/detailed system design 
+- Novel AI-enabled generative models for system design and manufacturing 
+- ML-guided rare event modeling and system uncertainty quantification 
+- Development of software, libraries, or benchmark datasets  
+- Identification of key challenges and opportunities for future research  
 
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
-
-If you experience issues or have cool features to add, feel free to [fork this template]().
