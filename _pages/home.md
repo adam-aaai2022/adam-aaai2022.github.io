@@ -230,7 +230,7 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
 <div class="row">
   <div class="col-xs-3">
     <a href="http://www.cs.cmu.edu/~aarti/">
-      <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/aarti.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://www.cs.cmu.edu/~aarti/">Aarti Singh</a>
@@ -240,7 +240,7 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
 
   <div class="col-xs-3">
     <a href="https://www.me.iastate.edu/faculty/profile/baskarg/">
-      <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/baskar.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.me.iastate.edu/faculty/profile/baskarg/">Baskar Ganapathysubramanian</a>
@@ -250,17 +250,17 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
 
   <div class="col-xs-3">
     <a href="https://chinmayhegde.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/chinmay.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.ekbuchanan.com/">Chinmay Hegde</a>
+      <a href="https://chinmayhegde.github.io/">Chinmay Hegde</a>
       <h6>New York University, Tandon School of Engineeering</h6>
     </div>
   </div>
 
   <div class="col-xs-3">
         <a href="https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge">
-      <img class="people-pic" src="{{ "/static/img/people/" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/mark.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge">Mark Fuge</a>
@@ -268,6 +268,48 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
     </div>
   </div>
   </div>
+
+<div class="row">
+  <div class="col-xs-3">
+    <a href="https://www.acsu.buffalo.edu/~olgawodo/">
+      <img class="people-pic" src="{{ "/static/img/people/olga.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.acsu.buffalo.edu/~olgawodo/">Olga Wodo</a>
+      <h6>Carnegie Melon University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-daspa">
+      <img class="people-pic" src="{{ "/static/img/people/baskar.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-daspa">Payel Das</a>
+      <h6>Iowa State University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-3">
+    <a href="https://www.linkedin.com/in/soumalya-sarkar-12b90a3b/">
+      <img class="people-pic" src="{{ "/static/img/people/soumalya.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/soumalya-sarkar-12b90a3b/">Soumalya Sarkar</a>
+      <h6>New York University, Tandon School of Engineeering</h6>
+    </div>
+  </div>
+
+<!--   <div class="col-xs-3">
+        <a href="https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge">
+      <img class="people-pic" src="{{ "/static/img/people/mark.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://enme.umd.edu/clark/faculty/539/Mark-D-Fuge">Mark Fuge</a>
+      <h6>University of Maryland</h6>
+    </div>
+  </div>
+  </div> -->
 <hr>
 
 <div class="row">
