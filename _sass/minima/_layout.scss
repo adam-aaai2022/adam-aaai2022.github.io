@@ -151,6 +151,7 @@
 }
 
 .footer-col-wrapper{
+  @include clearfix;
   @include relative-font-size(0.9375);
   color: $background-color;
   background-color: #000;
@@ -162,6 +163,9 @@
 .social-links {
   @include relative-font-size(0.9375);
   color: $background-color;
+  width: calc(100%);
+  margin: 0;
+  padding: 0;
 }
 
 
