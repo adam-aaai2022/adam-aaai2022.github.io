@@ -3,7 +3,7 @@
 ---
 
 @import
-  "minima/skins/{{ site.minima.skin | default: 'solarized' }}",
+  "minima/skins/{{ site.minima.skin | default: 'solarized-dark' }}",
   "minima/initialize";
 
 @import "bootstrap.min.css";
