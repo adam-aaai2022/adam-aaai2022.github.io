@@ -154,7 +154,7 @@
 .social-links {
   @include relative-font-size(0.9375);
   color: $background-color;
-  background-color: #00000;
+  background-color: #000 !default;
 }
 
 .footer-col {
