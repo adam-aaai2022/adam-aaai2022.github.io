@@ -3,7 +3,7 @@
 name: Aditya Balu
 
 # Link to the organizer's webpage
-webpage: https://chinmayhegde.github.io/
+webpage: http://adityabalu.strikingly.com/
 
 # Primary affiliation
 affil: Iowa State University
