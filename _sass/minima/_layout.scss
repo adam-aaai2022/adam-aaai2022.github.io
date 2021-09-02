@@ -136,21 +136,6 @@
   width: calc(100%);
 }
 
-.footer-heading {
-  @include relative-font-size(1.125);
-  margin-bottom: 0;
-}
-
-.feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
-}
-
-.contact-list,
-.social-media-list {
-  list-style: none;
-  margin-left: 0;
-}
-
 .footer-col-wrapper{
   @include relative-font-size(0.9375);
   color: $background-color;
@@ -159,16 +144,6 @@
   margin: 0;
   padding: 0;
 }
-
-.social-links {
-  @include relative-font-size(0.9375);
-  color: $background-color;
-  width: calc(100%);
-  margin: 0;
-  padding: 0;
-}
-
-
 
 
 
