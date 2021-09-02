@@ -132,7 +132,6 @@
 .site-footer {
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
-  background-color: #00000;
 
 }
 
@@ -154,7 +153,8 @@
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $brand-color;
+  color: $background-color;
+  background-color: #00000;
 }
 
 .footer-col {
