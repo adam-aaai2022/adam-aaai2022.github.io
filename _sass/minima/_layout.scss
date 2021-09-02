@@ -150,12 +150,16 @@
   margin-left: 0;
 }
 
-.footer-col-wrapper,
-.social-links {
+.footer-col-wrapper{
   @include relative-font-size(0.9375);
   color: $background-color;
   background-color: #000;
   width: calc(100%);
+}
+
+.social-links {
+  @include relative-font-size(0.9375);
+  color: $background-color;
 }
 
 .footer-col {
