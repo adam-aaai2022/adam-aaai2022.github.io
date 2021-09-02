@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: AI for Design and Manufacturing (ADAM) at AAAI 2022
+title: Home
 layout: home
 ---
 
