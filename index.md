@@ -7,6 +7,7 @@ title: Home
 layout: home
 ---
 
+![](assets/img/graphics/ADAM_image.png)
 
 Advances in complex engineering systems such as manufacturing and materials synthesis increasingly seek artificial intelligence/machine learning (AI/ML) solutions to enhance their design, development, and production processes. However, despite increasing interest from various subfields, AI/ML techniques are yet to fulfill their full promise in achieving these advances. Key obstacles include lack of high-quality data, difficulty in embedding complex scientific and engineering knowledge in learning, and the need for high-dimensional design space exploration under constrained budgets.
 
