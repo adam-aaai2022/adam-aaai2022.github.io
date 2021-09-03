@@ -57,15 +57,15 @@ last_updated: true
 # To turn off any of these collections, just set "output" to "false"
 collections:
   speakers:
-    output: true
+    output: false
   organizers:
     output: true
   schedule:
     sort_by: sequence_id
-    output: true
+    output: false
   papers:
     sort_by: sequence_id
-    output: true
+    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
