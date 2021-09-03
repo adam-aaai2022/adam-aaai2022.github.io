@@ -47,7 +47,7 @@ header_pages:
 
 # A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
 attribution: >
-  Based on a Jekyll template from a lazy grad student.
+  Based on a Jekyll template.
   Some icons made by Smashicons from www.flaticon.com.
 
 # Displays a "last updated" date in the footer if set to "true"
