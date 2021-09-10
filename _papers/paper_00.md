@@ -1,4 +1,4 @@
----
+<!-- ---
 # Determines which paper appears first (lowest number (0) appears first)
 sequence_id: 0
 
@@ -17,3 +17,4 @@ pdf: TBD
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
 img: TBD
 ---
+ -->
