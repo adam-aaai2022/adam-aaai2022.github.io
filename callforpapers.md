@@ -23,7 +23,7 @@ The workshop will be a half-day meeting comprising several invited talks from di
 ## Submissions
 Submitted technical papers can be up to 4 pages long (excluding references and appendices). Position papers are welcome. All papers must be submitted in PDF format using the [AAAI-22 author kit](https://aaai.org/Conferences/AAAI-22/submission-guidelines/). Papers will be peer-reviewed and selected for spotlight and/or poster presentation. 
 
-Submissions are due by: ~~**November 12, 2021**~~ **November 19, 2021**
+Submissions are due by: ~~November 12, 2021~~ **November 19, 2021**
 
 ## Submission website
 Submissions can be done [here](https://openreview.net/group?id=AAAI.org/2022/Workshop/ADAM). 
