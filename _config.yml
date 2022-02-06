@@ -63,9 +63,6 @@ collections:
   schedule:
     sort_by: sequence_id
     output: false
-  papers:
-    sort_by: sequence_id
-    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

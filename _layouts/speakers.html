@@ -7,10 +7,9 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-  <div> To be announced soon</div>
   <div class = "post-content">
 	  <table style="border-collapse: collapse; border: none;">
-	  	{% for speaker in site.speakers %}
+	  	{% for speaker in site.data.speakers %}
 		    <tr style="border: none;">
 		        <td style="border: none;">
 		            <div class="col-xs-6">
@@ -50,7 +49,7 @@ layout: default
 		        </td>
 		        <td style="border: none;">
 		        	<div class="people-name text-center">
-		        		{{ speaker.content }}
+		        		{{ speaker.intro }}
 		        	</div>
 		        </td>
 		    </tr>

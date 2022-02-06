@@ -7,21 +7,35 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
-  <div> To be announced soon</div>
+
+  <h2> List of accepted papers</h2>
 
   <div class = "post-content">
 	  <table>
-	  	{% for paper in site.papers %}
 		    <tr>
 		        <td>
 		            <div class="people-name text-center">
-		                <p align="center">
-		                	{% if paper.img %}
-		                    	<img class="paper-pic" src="{{ paper.img | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="paper-pic" src="{{ 'default.svg' | prepend: '/assets/img/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
-		                </p>
+		            	<b>Paper ID</b>
+		            </div>
+		        </td>
+		        <td align="center">
+		        	<div class="people-name text-center">
+			        	<b>Title</b>
+		        	</div>
+		        </td>
+		        <td>
+		            <div class="people-name text-center">
+		            <b> Authors </b>	
+		            </div>
+		        </td>
+		    </tr>
+
+
+	  	{% for paper in site.data.accepted_papers %}
+		    <tr>
+		        <td>
+		            <div class="people-name text-center">
+		            	{{paper.paper_id}}
 		            </div>
 		        </td>
 		        <td align="center">
@@ -40,11 +54,8 @@ layout: default
 		                	<br>
 		                	{{ paper.affil }}
 		                {% endif %}
-		                <!-- Link to PDF (if provided) -->
-		                {% if paper.pdf %}
-		                	<br>
-		                	<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
-		                {% endif %}
+	                	<br>
+	                	<a href="/assets/pdf/papers/{{paper.paper_id}}.pdf" target="_blank">PDF</a>
 		            </div>
 		        </td>
 		    </tr>
