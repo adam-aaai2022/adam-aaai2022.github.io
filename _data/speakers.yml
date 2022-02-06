@@ -9,13 +9,13 @@
   intro: J. Nathan Kutz is the Robert Bolles and Yasuko Endo Professor of Applied Mathematics at the University of Washington, and served as department chair from 2007— 2015. He is also Adjunct Professor of Electrical Engineering and Physics and a Senior Data-Science Fellow at the eScience institute. His research interests are in complex systems and data analysis where machine learning can be integrated with dynamical systems and control for a diverse set of applications. He has received the NSF CAREER award, an Applied Mathematics Boeing Award of Excellence in Teaching and the Best Paper Award at the International Conference of Applied and Engineering Mathematics in 2009.
 
 
-- speaker:
-  name: Elizabeth A Holm
+# - speaker:
+#   name: Elizabeth A Holm
 
-  # Link to the speaker's webpage
-  webpage: https://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html
+#   # Link to the speaker's webpage
+#   webpage: https://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html
 
-  # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-  img: liz_holm.jpg
+#   # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+#   img: liz_holm.jpg
 
-  intro: Professor Holm uses the tools of computational materials science to study a variety of materials systems and phenomena. Her research areas include the theory and modeling of microstructural evolution in complex polycrystals, the physical and mechanical response of microstructures, mechanical properties of carbon nanotube networks, atomic-scale properties of internal interfaces, machine vision for automated microstructural classification, and machine learning to predict rare events. Computational techniques applied to these problems range from the atomic scale (molecular dynamics) through the mesoscale (Monte Carlo, phase field, cellular automata) to the continuum scale (finite element). A particular focus is identifying useful concepts from data science, including machine learning, machine vision, evolutionary computing, and network analysis, and developing them to answer materials science questions.
+#   intro: Professor Holm uses the tools of computational materials science to study a variety of materials systems and phenomena. Her research areas include the theory and modeling of microstructural evolution in complex polycrystals, the physical and mechanical response of microstructures, mechanical properties of carbon nanotube networks, atomic-scale properties of internal interfaces, machine vision for automated microstructural classification, and machine learning to predict rare events. Computational techniques applied to these problems range from the atomic scale (molecular dynamics) through the mesoscale (Monte Carlo, phase field, cellular automata) to the continuum scale (finite element). A particular focus is identifying useful concepts from data science, including machine learning, machine vision, evolutionary computing, and network analysis, and developing them to answer materials science questions.
