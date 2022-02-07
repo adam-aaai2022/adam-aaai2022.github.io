@@ -6,8 +6,8 @@
   affil: University of Washington
   # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
   img: nathan_kutz.jpg
-  intro: J. Nathan Kutz is the Robert Bolles and Yasuko Endo Professor of Applied Mathematics at the University of Washington, and served as department chair from 2007— 2015. He is also Adjunct Professor of Electrical Engineering and Physics and a Senior Data-Science Fellow at the eScience institute. His research interests are in complex systems and data analysis where machine learning can be integrated with dynamical systems and control for a diverse set of applications. He has received the NSF CAREER award, an Applied Mathematics Boeing Award of Excellence in Teaching and the Best Paper Award at the International Conference of Applied and Engineering Mathematics in 2009.
-
+  title: The Future of Governing Equations 
+  abstract: Machine learning and AI algorithms are transforming a diverse number of fields in science and engineering. This is largely due their success in model discovery which turns data into reduced order models and neural network representations that are not just predictive, but provide insight into the nature of the underlying dynamical system that generated the data. We introduce a number of data-driven strategies, including targeted uses of deep learning, for discovering nonlinear multiscale dynamical systems, compact representations, and their embeddings from data. Importantly, data-driven architectures must jointly discover coordinates and parsimonious models in order to produce maximally generalizable and interpretable models of physics-based systems and processes.
 
 # - speaker:
 #   name: Elizabeth A Holm
