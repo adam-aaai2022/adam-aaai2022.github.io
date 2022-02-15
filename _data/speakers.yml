@@ -9,13 +9,14 @@
   title: The Future of Governing Equations 
   abstract: Machine learning and AI algorithms are transforming a diverse number of fields in science and engineering. This is largely due their success in model discovery which turns data into reduced order models and neural network representations that are not just predictive, but provide insight into the nature of the underlying dynamical system that generated the data. We introduce a number of data-driven strategies, including targeted uses of deep learning, for discovering nonlinear multiscale dynamical systems, compact representations, and their embeddings from data. Importantly, data-driven architectures must jointly discover coordinates and parsimonious models in order to produce maximally generalizable and interpretable models of physics-based systems and processes.
 
-# - speaker:
-#   name: Elizabeth A Holm
+- speaker:
+  name: Elizabeth A Holm
+  affil: Carnegie Melon University
 
-#   # Link to the speaker's webpage
-#   webpage: https://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html
+  # Link to the speaker's webpage
+  webpage: https://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html
 
-#   # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-#   img: liz_holm.jpg
+  # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+  img: liz_holm.jpg
 
-#   intro: Professor Holm uses the tools of computational materials science to study a variety of materials systems and phenomena. Her research areas include the theory and modeling of microstructural evolution in complex polycrystals, the physical and mechanical response of microstructures, mechanical properties of carbon nanotube networks, atomic-scale properties of internal interfaces, machine vision for automated microstructural classification, and machine learning to predict rare events. Computational techniques applied to these problems range from the atomic scale (molecular dynamics) through the mesoscale (Monte Carlo, phase field, cellular automata) to the continuum scale (finite element). A particular focus is identifying useful concepts from data science, including machine learning, machine vision, evolutionary computing, and network analysis, and developing them to answer materials science questions.
+  intro: Professor Holm uses the tools of computational materials science to study a variety of materials systems and phenomena. Her research areas include the theory and modeling of microstructural evolution in complex polycrystals, the physical and mechanical response of microstructures, mechanical properties of carbon nanotube networks, atomic-scale properties of internal interfaces, machine vision for automated microstructural classification, and machine learning to predict rare events. Computational techniques applied to these problems range from the atomic scale (molecular dynamics) through the mesoscale (Monte Carlo, phase field, cellular automata) to the continuum scale (finite element). A particular focus is identifying useful concepts from data science, including machine learning, machine vision, evolutionary computing, and network analysis, and developing them to answer materials science questions.

@@ -1,15 +1,15 @@
-sequence_id,speaker,webpage,affil,affil_link,img,affil2,affil2_link,title,time,,,
-0,Organizers,,,,,,,Intro(10 mins),09:00 - 09:10,,,
-1,Nathan Kutz,http://faculty.washington.edu/kutz/,University of Washington,,nathan_kutz.jpg,,,Plenary 1 (40 + 10 Q&A),09:10 - 10:00,,,
-2,Monolith AI,https://www.monolithai.com/who-we-are/about,,,,,,Keynote 1 (15 + 5 Q&A),10:00 - 10:20,,,
-3,Contributed Speakers,,,,,,,Lightning Talks 1 (7*5 + 5 Q&A),10:20 - 11:00,,,
-4,Brian Giera,https://www.linkedin.com/in/bgiera/,Lawrence Livermore National Laboratory,,bgiera.png,,,Keynote 2 (15 + 5 Q&A),11:00 - 11:20,,,
-5,Contributed Speakers,,,,,,,Lightning Talks 2 (7*5 + 5 Q&A),11:20 - 12:00,,,
-6,Contributed Speakers,,,,,,,Lunch break + posters (1 hr 30 mins),12:00 - 13:30,,,
-7,TBD,,,,,,,Plenary 2 (40 + 10 Q&A),13:30 - 14:20,,,
-8,Contributed Speakers,,,,,,,Lightning Talks 3 (7*5 + 5 Q&A),14:20 - 15:00,,,
-9,Benji Maruyama,https://www.linkedin.com/in/benji-maruyama-563b57b8/,Air Force Research Laboratory,,benji_maruyama.jpg,,,Keynote 3 (15 + 5 Q&A),15:00 - 15:20,,,
-10,Contributed Speakers,,,,,,,Lightning Talks 4 (3*5 + 5 Q&A),15:20 - 15:40,,,
-11,Adarsh Krishnamurthy,https://web.me.iastate.edu/idealab/p-krishnamurthy.html,Iowa State University,,Adarsh.jpg,,,Keynote 4 (15 + 5 Q&A),15:40 - 16:00,,,
-12,Panelists,,,,,,,Panel discussion (45),16:00 - 16:45,,,
-13,Organizers,,,,,,,Closing (15),16:45 - 17:00,,,
+sequence_id,speaker,webpage,affil,affil_link,img,affil2,affil2_link,title,time
+0,Organizers,,,,,,,Intro(10 mins),09:00 - 09:10
+1,Nathan Kutz,http://faculty.washington.edu/kutz/,University of Washington,,nathan_kutz.jpg,,,Plenary 1 (40 + 10 Q&A),09:10 - 10:00
+2,Peter Wooldridge,https://www.linkedin.com/in/peterwooldridge/,Monolith AI,https://www.monolithai.com/who-we-are/about,Peter.jpg,,,Keynote 1 (15 + 5 Q&A),10:00 - 10:20
+3,Contributed Speakers,,,,,,,Lightning Talks 1 (7*5 + 5 Q&A),10:20 - 11:00
+4,Brian Giera,https://www.linkedin.com/in/bgiera/,Lawrence Livermore National Laboratory,,bgiera.png,,,Keynote 2 (15 + 5 Q&A),11:00 - 11:20
+5,Contributed Speakers,,,,,,,Lightning Talks 2 (7*5 + 5 Q&A),11:20 - 12:00
+6,Contributed Speakers,,,,,,,Lunch break + posters (1 hr 30 mins),12:00 - 13:30
+7,Elizabeth A Holm,https://www.cmu.edu/engineering/materials/people/faculty/bios/holm.html,Carnegie Melon University,,liz_holm.jpg,,,Plenary 2 (40 + 10 Q&A),13:30 - 14:20
+8,Contributed Speakers,,,,,,,Lightning Talks 3 (7*5 + 5 Q&A),14:20 - 15:00
+9,Benji Maruyama,https://www.linkedin.com/in/benji-maruyama-563b57b8/,Air Force Research Laboratory,,benji_maruyama.jpg,,,Keynote 3 (15 + 5 Q&A),15:00 - 15:20
+10,Contributed Speakers,,,,,,,Lightning Talks 4 (3*5 + 5 Q&A),15:20 - 15:40
+11,Adarsh Krishnamurthy,https://web.me.iastate.edu/idealab/p-krishnamurthy.html,Iowa State University,,Adarsh.jpg,,,Keynote 4 (15 + 5 Q&A),15:40 - 16:00
+12,Panelists,,,,,,,Panel discussion (45),16:00 - 16:45
+13,Organizers,,,,,,,Closing (15),16:45 - 17:00
