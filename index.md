@@ -30,4 +30,3 @@ Our proposed AAAI  workshop, ADAM, aims to bring together researchers from core 
 - ML-guided rare event modeling and system uncertainty quantification 
 - Development of software, libraries, or benchmark datasets  
 - Identification of key challenges and opportunities for future research  
-

@@ -30,8 +30,9 @@ layout: default
 		        </td>
 		    </tr>
 
+		{% assign papers_list = site.data.accepted_papers | sort: "paper_id" %}
 
-	  	{% for paper in site.data.accepted_papers %}
+	  	{% for paper in papers_list %}
 		    <tr>
 		        <td>
 		            <div class="people-name text-center">
@@ -55,7 +56,7 @@ layout: default
 		                	{{ paper.affil }}
 		                {% endif %}
 	                	<br>
-	                	<a href="/assets/pdf/papers/{{paper.paper_id}}.pdf" target="_blank">PDF</a>
+	                	<a href="https://openreview.net/pdf?id={{ paper.forum }}" target="_blank">PDF</a>
 		            </div>
 		        </td>
 		    </tr>

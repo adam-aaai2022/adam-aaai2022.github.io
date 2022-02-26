@@ -1,24 +1,24 @@
-paper_id,title,authors
-2,Differential Property Prediction: A Machine Learning Approach to Experimental Design in Advanced Manufacturing,"Loc Truong, WoongJo Choin, Colby Wight, Elizabeth Coda, Tegan Emerson, Keerti Kappagantula, Henry Kvinge"
-3,Anomaly Segmentation Network Using Self-Supervised Learning,"Jouwon Song, Kyeongbo Kong, Ye-In Park, Seong-Gyun Kim, Suk-Ju Kang"
-4,Deep Reinforcement Learning for Engineering Design through Topology Optimization of Elementally Discretized Design Domains,"Nathan Brown, Anthony Garland, Georges Fadel, Gang Li"
-5,An Intelligent System for Automatic Selection of DC-DC Converter Topology with Optimal Design,"Song Wang, Yi Murphey, Wencong Su, Mengqi Wang, VAN HAI BUI, Fangyuan Chang, Can Huang, Lingxiao Xue, Felipe Leno da Silva, Ruben Glatt"
-6,Data-Efficient Training with Physics-Enhanced Deep Surrogates,"Raphael Pestourie, Youssef Mroueh, Christopher Vincent Rackauckas, Payel Das, Steven Glenn Johnson"
-7,Quantile Autoencoder for Anomaly Detection,"Hogeon Seo, Seunghyoung Ryu, Jiyeon Yim, Junghoon Seo, Yonggyun Yu"
-8,Parallel Attention Network using Vector with High Correlation with Label for Remaining Useful Life Estimation,"Ye-In Park, Jouwon Song, Suk-Ju Kang"
-9,Automating the Process of Energy-Technology Invention,"David E Tew, Mihaela Quirk, Lipi Acharya"
-10,Deep Symbolic Optimization for Electric Component Sizing in Fixed Topology Power Converters,"Ruben Glatt, Felipe Leno da Silva, VAN HAI BUI, Can Huang, Lingxiao Xue, Mengqi Wang, Fangyuan Chang, Yi Murphey, Wencong Su"
-12,GANISP: a GAN-assisted Importance SPlitting Probability Estimator,"Malik Hassanaly, Andrew Glaws, Ryan Nicholas King"
-13,Differentiable Design With Dynamic Programming,"Kelly O. Marshall, Minsu Cho, Chinmay Hegde"
-14,AI-Driven Design-Space Exploration for Thermo-Fluid Domains,"Amit Bhatia, Kathryn Kirsch, Claudio Pinello, Ram Ranjan"
-15,Grassmannian Shape Representations for Aerodynamic Applications,"Olga Doronina, Zachary J. Grey, Andrew Glaws"
-16,Inverse Design of Microstructures via Generative Networks for Organic Solar Cells,"Xian Yeow Lee, Aditya Balu, Balaji Sesha Sarath Pokuri, Adarsh Krishnamurthy, Soumik Sarkar, Baskar Ganapathysubramanian"
-17,An Epsilon-Frontier for Faster Optimization in Nonlinear Manifold Learning,"Arthur Drake, Qiuyi Chen, Mark Fuge"
-18,Gaussian Process-Driven History Matching for Physical Layer Parameter Estimation in Optical Fiber Communication Networks,"Josh William Nevin, Sam Nallaperuma, Seb Savory"
-19,Fast Unsupervised Generative Design for Structural Topology Optimization,"Ethan Herron, Anushrut Jignasu, Jaydeep Rade, Xian Yeow Lee, Aditya Balu, Adarsh Krishnamurthy, Soumik Sarkar"
-20,Multi-Fidelity Modeling of Spatio-Temporal Fields,"Sudeepta Mondal, Soumalya Sarkar"
-21,Deep Generative Models for Geometric Design Under Uncertainty,"Wei Chen, Doksoo Lee, Wei Chen"
-22,Multigrid Distributed Deep CNNs for Structural Topology Optimization,"Jaydeep Rade, Aditya Balu, Ethan Herron, Anushrut Jignasu, Sergio Botelho, Santi Adavani, Soumik Sarkar, Baskar Ganapathysubramanian, Adarsh Krishnamurthy"
-23,Physics Informed Machine Learning with Misspecified Priors: \\An analysis of Turning Operation in Lathe Machines,"Zhiyuan Zhao, Xueying Ding, Gopaljee Atulya, Alex Davis, Aarti Singh"
-24,Composable and Reusable Neural Surrogates to Predict System Response of Causal Model Components,"Ranjan Anantharaman, Anas Abdelrehim, Francesco Martinuzzi, Sharan Yalburgi, Elliot Saba, Keno Fischer, Glen Hertz, Pepijn de Vos, Chris Laughman, Yingbo Ma, Viral Shah, Alan Edelman, Chris Rackauckas"
-25,Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning,"Soren Taverniers, Svyatoslav Korneev, Kyle Mitchell Pietrzyk, Morad Behandish"
+,paper_id,title,authors,forum
+0,2,Differential Property Prediction: A Machine Learning Approach to Experimental Design in Advanced Manufacturing,"Loc Truong, WoongJo Choin, Colby Wight, Elizabeth Coda, Tegan Emerson, Keerti Kappagantula, Henry Kvinge",SbCndr5Yu6T
+1,24,Composable and Reusable Neural Surrogates to Predict System Response of Causal Model Components,"Ranjan Anantharaman, Anas Abdelrehim, Francesco Martinuzzi, Sharan Yalburgi, Elliot Saba, Keno Fischer, Glen Hertz, Pepijn de Vos, Chris Laughman, Yingbo Ma, Viral Shah, Alan Edelman, Chris Rackauckas",CFB_X4D_gQb
+2,22,Multigrid Distributed Deep CNNs for Structural Topology Optimization,"Jaydeep Rade, Aditya Balu, Ethan Herron, Anushrut Jignasu, Sergio Botelho, Santi Adavani, Soumik Sarkar, Baskar Ganapathysubramanian, Adarsh Krishnamurthy",BJSHAXe-XZz
+3,19,Fast Unsupervised Generative Design for Structural Topology Optimization,"Ethan Herron, Anushrut Jignasu, Jaydeep Rade, Xian Yeow Lee, Aditya Balu, Adarsh Krishnamurthy, Soumik Sarkar",r7-mkF0QOCr
+4,16,Inverse Design of Microstructures via Generative Networks for Organic Solar Cells,"Xian Yeow Lee, Aditya Balu, Balaji Sesha Sarath Pokuri, Adarsh Krishnamurthy, Soumik Sarkar, Baskar Ganapathysubramanian",5ThX8_KgZwQ
+5,5,An Intelligent System for Automatic Selection of DC-DC Converter Topology with Optimal Design,"Song Wang, Yi Murphey, Wencong Su, Mengqi Wang, VAN HAI BUI, Fangyuan Chang, Can Huang, Lingxiao Xue, Felipe Leno da Silva, Ruben Glatt",bKfkgrx0mRI
+6,8,Parallel Attention Network using Vector with High Correlation with Label for Remaining Useful Life Estimation,"Ye-In Park, Jouwon Song, Suk-Ju Kang",IlBRnwuFLvw
+7,6,Data-Efficient Training with Physics-Enhanced Deep Surrogates,"Raphael Pestourie, Youssef Mroueh, Christopher Vincent Rackauckas, Payel Das, Steven Glenn Johnson",vQmS8ueWIFm
+8,14,AI-Driven Design-Space Exploration for Thermo-Fluid Domains,"Amit Bhatia, Kathryn Kirsch, Claudio Pinello, Ram Ranjan",OXRPY_aPhd-
+9,15,Grassmannian Shape Representations for Aerodynamic Applications,"Olga Doronina, Zachary J. Grey, Andrew Glaws",1RRU6ud9YC
+10,9,Automating the Process of Energy-Technology Invention,"David E Tew, Mihaela Quirk, Lipi Acharya",L_OfmAEqgNy
+11,10,Deep Symbolic Optimization for Electric Component Sizing in Fixed Topology Power Converters,"Ruben Glatt, Felipe Leno da Silva, VAN HAI BUI, Can Huang, Lingxiao Xue, Mengqi Wang, Fangyuan Chang, Yi Murphey, Wencong Su",u_ghY9PnAyZ
+12,3,Anomaly Segmentation Network Using Self-Supervised Learning,"Jouwon Song, Kyeongbo Kong, Ye-In Park, Seong-Gyun Kim, Suk-Ju Kang",x-Tw-P777R
+13,7,Quantile Autoencoder for Anomaly Detection,"Hogeon Seo, Seunghyoung Ryu, Jiyeon Yim, Junghoon Seo, Yonggyun Yu",yG0EWFkvyjB
+14,17,An Epsilon-Frontier for Faster Optimization in Nonlinear Manifold Learning,"Arthur Drake, Qiuyi Chen, Mark Fuge",vO4ciAVPlcr
+15,18,Gaussian Process-Driven History Matching for Physical Layer Parameter Estimation in Optical Fiber Communication Networks,"Josh William Nevin, Sam Nallaperuma, Seb Savory",ug3MANo4x8z
+16,25,Accelerating Part-Scale Simulation in Liquid Metal Jet Additive Manufacturing via Operator Learning,"Soren Taverniers, Svyatoslav Korneev, Kyle Mitchell Pietrzyk, Morad Behandish",FuojrywNwIM
+17,12,GANISP: a GAN-assisted Importance SPlitting Probability Estimator,"Malik Hassanaly, Andrew Glaws, Ryan Nicholas King",e6k_JgCT1P
+18,13,Differentiable Design With Dynamic Programming,"Kelly O. Marshall, Minsu Cho, Chinmay Hegde",U-5NOEMx4n_
+19,20,Multi-Fidelity Modeling of Spatio-Temporal Fields,"Sudeepta Mondal, Soumalya Sarkar",mpx0DARLU7
+20,4,Deep Reinforcement Learning for Engineering Design through Topology Optimization of Elementally Discretized Design Domains,"Nathan Brown, Anthony Garland, Georges Fadel, Gang Li",00I1UhSk55i
+21,23,Physics Informed Machine Learning with Misspecified Priors: \\An analysis of Turning Operation in Lathe Machines,"Zhiyuan Zhao, Xueying Ding, Gopaljee Atulya, Alex Davis, Aarti Singh",gLEgKWySYId
+22,21,Deep Generative Models for Geometric Design Under Uncertainty,"Wei Chen, Doksoo Lee, Wei Chen",rm4rxTrrTjd

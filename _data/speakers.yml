@@ -10,6 +10,36 @@
   abstract: Machine learning and AI algorithms are transforming a diverse number of fields in science and engineering. This is largely due their success in model discovery which turns data into reduced order models and neural network representations that are not just predictive, but provide insight into the nature of the underlying dynamical system that generated the data. We introduce a number of data-driven strategies, including targeted uses of deep learning, for discovering nonlinear multiscale dynamical systems, compact representations, and their embeddings from data. Importantly, data-driven architectures must jointly discover coordinates and parsimonious models in order to produce maximally generalizable and interpretable models of physics-based systems and processes.
 
 - speaker:
+  name: Peter Wooldridge
+  affil: Monolith AI
+
+  # Link to the speaker's webpage
+  webpage: https://www.linkedin.com/in/peterwooldridge/
+
+  # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+  img: Peter.jpg
+  title: "3D Generative models: applications and explainability research directions"
+
+ 
+  abstract: "Deep generative models are machine learning techniques capable of automatically abstracting information of a high dimensional domain without the bias of a human user. These techniques enable the generation of efficient geometric representations which can be utilised for a variety of purposes such as prediction of performance quantities or optimisation of a geometry. This presentation will cover use cases of how Monolith AI have deployed these types of models to solve our clients problems. 
+  \n
+   Despite the flexibility of such models; overcoming their inherent black box nature is, we believe, key to a wider adoption in the engineering domain. This presentation will cover some of the research directions we are working on to help overcome these limitations."
+
+- speaker:
+  name: Adarsh Krishnamurthy
+  affil: Iowa State University
+
+  # Link to the speaker's webpage
+  webpage: https://web.me.iastate.edu/idealab/p-krishnamurthy.html
+
+  # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+  img: Adarsh.jpg
+  title: "A Differentiable Programming Module for NURBS"
+
+ 
+  abstract: "Boundary representations (B-reps) using Non-Uniform Rational B-splines (NURBS) are the de facto standard used in CAD, but their utility in deep learning-based approaches is not well researched. We propose a differentiable NURBS module to integrate NURBS representations of CAD models with deep learning methods. We mathematically define the derivatives of the NURBS curves or surfaces with respect to the input parameters (control points, weights, and the knot vector). These derivatives are used to define an approximate Jacobian used for performing the “backward” evaluation to train the deep learning models. We have implemented our NURBS module using GPU-accelerated algorithms and integrated it with PyTorch, a popular deep learning framework. We demonstrate the efficacy of our NURBS module in performing CAD operations such as curve or surface fitting and surface offsetting. Further, we show its utility in deep learning for unsupervised point cloud reconstruction and enforce analysis constraints. These examples show that our module performs better for certain deep learning frameworks and can be directly integrated with any deep-learning framework requiring NURBS."
+
+- speaker:
   name: Elizabeth A Holm
   affil: Carnegie Melon University
 
@@ -18,5 +48,32 @@
 
   # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
   img: liz_holm.jpg
+  title: TBA
+  abstract: 
 
-  intro: Professor Holm uses the tools of computational materials science to study a variety of materials systems and phenomena. Her research areas include the theory and modeling of microstructural evolution in complex polycrystals, the physical and mechanical response of microstructures, mechanical properties of carbon nanotube networks, atomic-scale properties of internal interfaces, machine vision for automated microstructural classification, and machine learning to predict rare events. Computational techniques applied to these problems range from the atomic scale (molecular dynamics) through the mesoscale (Monte Carlo, phase field, cellular automata) to the continuum scale (finite element). A particular focus is identifying useful concepts from data science, including machine learning, machine vision, evolutionary computing, and network analysis, and developing them to answer materials science questions.
+- speaker:
+  name: Benji Maruyama
+  affil: Air Force Research Laboratory
+
+  # Link to the speaker's webpage
+  webpage: https://web.me.iastate.edu/idealab/p-krishnamurthy.html
+
+  # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+  img: benji_maruyama.jpg
+  title: "Accelerating Research with Autonomous Experimentation"
+
+  abstract: "The current materials research process is slow and expensive; taking decades from invention to commercialization. The Air Force Research Laboratory pioneered ARES™, the first autonomous research systems for materials development. Researchers are now exploiting advances in artificial intelligence (AI), autonomy & robotics, along with modeling and simulation to create research robots capable of doing iterative experimentation orders of magnitude faster than today. We will discuss concepts and advances in autonomous experimentation in general, and associated hardware, software and autonomous methods. \n 
+  We expect autonomous research to revolutionize the research process, and propose a “Moore’s Law for the Speed of Research,” where the rate of advancement increases exponentially, and the cost of research drops exponentially. We also consider a renaissance in “Citizen Science” where access to online research robots makes science widely available. This presentation will highlight advances in autonomous research and consider the implications of AI-driven experimentation on the materials landscape. "
+
+- speaker:
+  name: Brian Giera
+  affil: Lawrence Livermore National Laboratory
+
+  # Link to the speaker's webpage
+  webpage: https://www.linkedin.com/in/bgiera/
+
+  # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
+  img: bgiera.png
+  title: "Machine Learning Based Monitoring of Advanced Manufacturing"
+
+  abstract: "As with most advanced manufacturing (AM) systems, analysis of AM sensor data currently occurs post-build, rendering process monitoring and rectification impossible. Supervised machine learning offers a route to convert sensor data into real-time assessments; however, this requires a wealth of labeled sensor data that traditionally is too time-consuming and/or expensive to assemble. In this work, we solve this critical issue in a variety of AM systems. We develop and implement machine learning (ML) algorithms for the purposes of automated quality assessment and, in some cases, rectification. We discuss ML-based algorithms capable of automated detection in a host of AM technologies such as Laser Powder Bed Fusion and Direct Ink Write and also microfluidic platforms that are used for feedstock production. The common thread within these systems is that routinely collected sensor data (e.g. high-speed video, pressure gauges, etc.) contains pertinent information about the state of the system that can be converted into actionable information in real-time via ML. Successful implementation of these machine learning algorithms will reduce time and cost during process by automating quality assessment and lead to process control."
