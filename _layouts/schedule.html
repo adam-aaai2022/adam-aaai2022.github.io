@@ -9,6 +9,7 @@ layout: default
   </header>
 
   <div class = "post-content">
+		{% assign papers_list = site.data.accepted_papers | sort: "paper_id" %}
 	  <table>
 	  	{% for scheduleitem in site.data.schedule %}
 		    <tr>
@@ -31,6 +32,31 @@ layout: default
 		        <td align="center">
 		        	<div class="col-xs-12">
 			        	<b>{{ scheduleitem.title }}</b>
+						{% if scheduleitem.title == "Lightning Talks 1 (7*5 + 5 Q&A)" %}
+							<ul style="text-align: left;">
+								{% for paper in papers_list | limit: 7 %}
+									<li> Paper #{{paper.paper_id}} -- {{paper.title}} </li>								
+								{% endfor %}
+							</ul>
+						{% elsif scheduleitem.title == "Lightning Talks 2 (7*5 + 5 Q&A)" %}
+							<ul style="text-align: left;">
+								{% for paper in papers_list | limit: 6 offset:7%}
+									<li> Paper #{{paper.paper_id}} -- {{paper.title}} </li>								
+								{% endfor %}
+							</ul>
+						{% elsif scheduleitem.title == "Lightning Talks 3 (7*5 + 5 Q&A)" %}
+							<ul style="text-align: left;">
+								{% for paper in papers_list | limit: 7 offset:13%}
+									<li> Paper #{{paper.paper_id}} -- {{paper.title}} </li>								
+								{% endfor %}
+							</ul>
+						{% elsif scheduleitem.title == "Lightning Talks 4 (3*5 + 5 Q&A)" %}
+							<ul style="text-align: left;">
+								{% for paper in papers_list | offset:20%}
+									<li> Paper #{{paper.paper_id}} -- {{paper.title}} </li>								
+								{% endfor %}
+							</ul>
+						{% endif %}
 		        	</div>
 		        </td>
 		        <td>
