@@ -43,6 +43,7 @@ layout: default
 								{% for paper in papers_list | limit: 6 offset:7%}
 									<li> Paper #{{paper.paper_id}} -- {{paper.title}} </li>								
 								{% endfor %}
+								<li> <b>Invited lightning talk: Hardware Acceleration of Message-Passing Networks for Quantum Chemistry</b> </li>
 							</ul>
 						{% elsif scheduleitem.title == "Lightning Talks 3 (7*5 + 5 Q&A)" %}
 							<ul style="text-align: left;">
