@@ -9,8 +9,8 @@ layout: home
 
 > ### News and Announcements
 > 
-> 1. Deadline for submitting lightning talk video and the posters in pdf is **Feb 25, 2022**. Submission link [here](https://iastate.app.box.com/f/43d0ce93d3e64678b7ce958fc9fc4119)
-> 2. Deadline for camera-ready workshop paper is **Feb 25, 2022**.
+> 1. The program is taking place in the Virtual Chair powered by gather.town on March 1 from 9:00 am to 5:00 pm PST.  
+> 2. To access the venue, click [here](https://link.virtualchair.net/aaai-22/Red2). Move your virtual avatar onto a chair and press ‘x’ on your keyboard to join the Zoom Meeting.
 > 
 
 ![](assets/img/graphics/ADAM_image.png)
