@@ -48,8 +48,9 @@
 
   # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
   img: liz_holm.jpg
-  title: TBA
-  abstract: 
+  title: "Computer Vision in Material Science"
+  
+  abstract: "Images of the substructure of materials (termed microstructural images) form one of the foundational data sources in materials science and engineering. These images encode rich information about the parent material. As such, they are amenable to characterization and analysis by data science approaches, including computer vision (CV) and machine learning (ML). CV and ML methods support a wide variety of critical tasks, including segmentation, measurement, classification, regression, visual similarity, and structure generation. In addition, we can apply these approaches to extract physical information that is not accessible by traditional methods. Because obtaining microstructural images can be costly, data sets are generally small, and models rely on transfer learning. However, the data-rich nature of these images offers certain advantages compared to natural images, often requiring smaller training data sets and enabling more thorough assessment of results."
 
 - speaker:
   name: Benji Maruyama
